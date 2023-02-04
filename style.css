@@ -133,3 +133,28 @@ img {
     justify-content: end;
 
 }
+
+.action {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 150px;
+    background-color: #3882f6;
+    margin: 100px 170px;
+    padding: 40px;
+    border-radius: 12px;
+}
+
+.first-text,
+.second-text {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+.first-text {
+    font-weight: bold;
+}
+
+.second-button {
+    border: 2px solid white;
+}
