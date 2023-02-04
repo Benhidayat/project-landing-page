@@ -2,7 +2,8 @@
     display: flex;
     justify-content: center;
     background-color: #1f2937;
-    padding: 20px;
+    padding-top: 20px;
+    padding-bottom: 100PX;
 }
 
 .main {
@@ -56,6 +57,16 @@ a {
 }
 
 img {
-    width: 509px;
+    width: 450px;
     height: 200px;
+}
+
+.footer {
+    height: 100px;
+    background-color: #1f2937;
+    font-size: 18px;
+    color: #e5e7eb;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
